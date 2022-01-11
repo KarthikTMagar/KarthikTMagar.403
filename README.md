@@ -18,7 +18,7 @@
 
 # pip2 install mecahainze
 
-# git clone https://github.com/KarthikTMagar/KarthikTMagar.403/
+# git clone https://github.com/KarthikTMagar/KarthikTMagar.403
 
 # ls
 
